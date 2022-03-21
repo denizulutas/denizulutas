@@ -8,9 +8,9 @@
 ## < About Me>
 
 - 👋 Hi, I’m @Deniz Ulutas
-- 👨‍🎓 I’m a AWS&DevOps Engineer and Mathematician
-- 👨‍🏫 I’m interested in IT and Automation
-- 🥇 I like yoga, hiking, cooking and teaching what I know :)
+- I’m a AWS&DevOps Engineer and Mathematician
+- I’m interested in IT and Automation
+- I like yoga, hiking, cooking and teaching what I know :)
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159220580-1e572ad3-de21-423c-a6d3-d26010bd442e.png" width="400">

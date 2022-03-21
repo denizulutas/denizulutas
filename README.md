@@ -4,15 +4,13 @@
 <h3 align="center">Join my DEVOPS Journey
 
 <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQFPNYDFMCraCw/profile-displayphoto-shrink_800_800/0/1645147222712?e=1653523200&v=beta&t=K_oXhNnpMDECeX0xkcO4JAdmdEM6MGJGkkNuymH26a0" width="200">
-
- <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
    
 ## < About Me>
 
 - 👋 Hi, I’m @Deniz Ulutas
 - 👨‍🎓 I’m a AWS&DevOps Engineer and Mathematician
 - 👨‍🏫 I’m interested in IT and Automation
-- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
+- 🥇 I like yoga, hiking, cooking and teaching what I know :)
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159220580-1e572ad3-de21-423c-a6d3-d26010bd442e.png" width="400">

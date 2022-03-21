@@ -10,9 +10,8 @@
 ## < About Me>
 
 - 👋 Hi, I’m @Deniz Ulutas
-- 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
-- 👨‍🏫 I’m interested in IT, Automation and Electronic
-- 👀 I’m currently learning AWS and DevOps 
+- 👨‍🎓 I’m a AWS&DevOps Engineer and Mathematician
+- 👨‍🏫 I’m interested in IT and Automation
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
@@ -29,16 +28,15 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/harun-gür-98190267/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/gurharun/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:gurharun@gmail.com)
+  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/deniz-ulutas-aws-devops-engineer/)
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:fulutas4242@gmail.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizulutas&langs_count=10&theme=cobalt&layout=compact" alt="Harun" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizulutas&show_icons=true&theme=cobalt" alt="Harun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizulutas&show_icons=true&theme=cobalt" alt="Deniz" /></p>
  
   
-[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddenizulutas)](https://github.com/denizulutas) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=denizulutas&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p> 
+[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddenizulutas)](https://github.com/denizulutas) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=denizulutas&label=Profile%20views&color=129e00&style=plastic" alt="Deniz" /> </p> 
 <hr> 
  <!---
 denizulutas/denizulutas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

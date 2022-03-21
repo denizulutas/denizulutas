@@ -1,6 +1,6 @@
 # README
 ![snake svg](https://github.com/denizulutas/denizulutas/blob/output/github-contribution-grid-snake.svg)
-<h3 align="center">Hey there, I'm Harun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h3 align="center">Hey there, I'm Deniz  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my DEVOPS Journey
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>

@@ -3,7 +3,6 @@
 <h3 align="center">Hey there, I'm Deniz  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join my DEVOPS Journey
 
-<h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQFPNYDFMCraCw/profile-displayphoto-shrink_800_800/0/1645147222712?e=1653523200&v=beta&t=K_oXhNnpMDECeX0xkcO4JAdmdEM6MGJGkkNuymH26a0" width="200">
    
 ## < About Me>
 

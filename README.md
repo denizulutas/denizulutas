@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @Deniz Ulutas
 - I’m a AWS&DevOps Engineer and Mathematician
-- I’m interested in IT and Automation
+- I’m interested in IT , Cloud and Automation
 - I like yoga, hiking and cooking :)
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------

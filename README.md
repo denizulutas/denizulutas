@@ -16,7 +16,7 @@
 <img src="https://www.synopsys.com/content/dam/synopsys/sig-assets/images/cicd.svg.imgo.svg" width="14%"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://www.veritis.com/wp-content/uploads/2015/06/Terraform-main-image.jpg" width="10%"> <img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?zoom=2&resize=730%2C389" width="14%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="12%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="9%"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="10%"> <img src="https://1118798822.rsc.cdn77.org/wp-content/uploads/2021/04/Apache-maven.jpg" width="11%"> <img src="https://user-images.githubusercontent.com/96360040/159221969-61cb0de5-d8f3-44f7-ac94-40d0dcfab30c.png" width="12%"> <img src="https://www.openvirtualization.pro/wp-content/uploads/2019/01/GettingStartedWithAnsible-1200x780.png" width="13%"> 
 ----------------
 ----------------
-<h5 align="left">We are NightFighters, Join us to NightFighterClub:</h5>
+<h5 align=" "</h5>
 <p align="left"> 
 
   [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="140" width="200" />](https://www.linkedin.com/groups/14059731/) 
@@ -27,7 +27,7 @@
   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/deniz-ulutas-aws-devops-engineer/)
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:fulutas4242@gmail.com)
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizulutas&langs_count=10&theme=cobalt&layout=compact" alt="Harun" /></p>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizulutas&langs_count=10&theme=cobalt&layout=compact" alt="Deniz" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizulutas&show_icons=true&theme=cobalt" alt="Deniz" /></p>
  

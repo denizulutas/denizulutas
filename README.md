@@ -1,11 +1,6 @@
 # README
 
 
-![snake svg](https://github.com/denizulutas/denizulutas/blob/output/github-contribution-grid-snake.svg)
-
--------------
--------------
-
 <h3 align="center">Hey there, I'm Deniz  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join my DEVOPS Journey
 

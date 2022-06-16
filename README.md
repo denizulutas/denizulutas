@@ -5,7 +5,6 @@
 <h3 align="center">Join my DevOps Journey
 
    
-## < About Me>
 
 I have experience in DevOps and Cloud. Authorized to work in the USA without any restrictions. Passionate about automation of IT processes.Expert in designing and building effective Continuous Integration and Delivery (CI/CD) pipelines using containerization, orchestration, infrastructure automation tools, configuration management tools, and AWS solutions. To be able to use Jira and GitLab as a project management tool and agile methodology as a project management method. Highly adaptable, flexible professional who embraces teamwork but also likes to work independently. Armed with remarkable problem solving, multitasking, and time management abilities
 ----------------
